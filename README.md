@@ -59,6 +59,7 @@ Access the deployed Streamlit application here:
 ├── static/
 │   └── 1.png                         # Background image
 ├── requirements.txt                  # Python dependencies
+├── Carbon-Predictor.ipynb                  # Jupyter notebook of the model
 ```
 
 ---
