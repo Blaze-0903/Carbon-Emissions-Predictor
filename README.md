@@ -127,7 +127,7 @@ Contributions are welcome! Fork this repo, make changes, and submit a pull reque
 
 ## 📄 License
 
-[Specify your license here, e.g., MIT License]
+MIT License
 
 ---
 
