@@ -57,7 +57,7 @@ Access the deployed Streamlit application here:
 ├── ghg_scaler.pkl                    # StandardScaler for GHG model
 ├── preprocessed_data.csv            # Cleaned dataset for GHG prediction
 ├── static/
-│   └── 1.png                         # Background image
+    └── 1.png                         # Background image
 ├── requirements.txt                  # Python dependencies
 ├── Carbon_Predictor.ipynb                  # Jupyter notebook of the model
 ├── Carbon-Emissions-Predictor.pdf                  # Presentation Synopsis Document.docx
