@@ -60,7 +60,8 @@ Access the deployed Streamlit application here:
 │   └── 1.png                         # Background image
 ├── requirements.txt                  # Python dependencies
 ├── Carbon_Predictor.ipynb                  # Jupyter notebook of the model
-├── Carbon-Emissions-Predictor.pdf                  # Presentation
+├── Carbon-Emissions-Predictor.pdf                  # Presentation Synopsis Document.docx
+├── Synopsis Document.docx                 # Synopsis Document
 ```
 
 ---
